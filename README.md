@@ -2,7 +2,7 @@
 
 Musify is a web-based music player built with HTML, CSS, and JavaScript. This project dynamically loads and plays music, features a functional search, and has a responsive design.
 
-![Musify Demo](assets/musify video.gif)
+![Musify Demo](assets/musify_video.gif)
 ---
 
 ## Features
